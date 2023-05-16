@@ -1,0 +1,2 @@
+#!/bin/bash
+cat /etc/passwd > file.txt | cat /etc/hosts >> file.txt | cat file.txt
